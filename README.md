@@ -10,12 +10,12 @@ Este proyecto busca automatizar algunas de los aspectos necesarios para implemen
   
 <h2>Funciones planeadas: </h2>
 
-<ul>
-<li>Alimentación basada en la hora del día.</li>
+<ol>
 <li>Varias optimizaciónes.</li>
+<li>Alimentación basada en la hora del día.</li>
+<li>Alertas programables. </li>
 <li>Control de PH (Opcional).</li>
 <li>Monitoreo de TSD (Opcional). </li>
-<li>Alertas programables. </li>
-  </ul>
+  </ol>
 
 El objetivo es el realizar un projecto capaz de servir de lienzo para diversos hobbistas, por lo que se busca el mantener el sistema lo más simple (pero funcional) posible. 
