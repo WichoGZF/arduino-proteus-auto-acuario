@@ -11,11 +11,11 @@ Este proyecto busca automatizar algunas de los aspectos necesarios para implemen
 <h2>Funciones planeadas: </h2>
 
 <ol>
-<li>Varias optimizaciónes.</li>
+<li>Varias optimizaciones.</li>
 <li>Alimentación basada en la hora del día.</li>
 <li>Alertas programables. </li>
 <li>Control de PH (Opcional).</li>
 <li>Monitoreo de TSD (Opcional). </li>
   </ol>
 
-El objetivo es el realizar un projecto capaz de servir de lienzo para diversos hobbistas, por lo que se busca el mantener el sistema lo más simple (pero funcional) posible. 
+El objetivo es el realizar un proyecto capaz de servir de lienzo para diversos hobbistas, por lo que se busca el mantener el sistema lo más simple (pero funcional) posible. 
